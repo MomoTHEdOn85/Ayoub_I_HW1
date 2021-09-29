@@ -1,1 +1,5 @@
-# Ayoub_I_HW1
+# My Amazing Team Project
+
+This is all about dev team!
+
+My other team member is also me.
